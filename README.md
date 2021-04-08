@@ -12,12 +12,10 @@ Some technologies I enjoy working with include Javascript, PHP, Java, Python, LU
 Here are few demos on my recent projects.
 
 - Chatbot Application  
-![Chatbot Application](https://drive.google.com/file/d/147-wgbYpjgEGvG5eAyohekjmLb_lYLlu/view?usp=sharing) 
 
-[![Watch the video](https://i.imgur.com/vKb2F1B.png)](https://drive.google.com/file/d/147-wgbYpjgEGvG5eAyohekjmLb_lYLlu/view?usp=sharing)
-
-  <iframe width="320" height="240" src="https://drive.google.com/file/d/147-wgbYpjgEGvG5eAyohekjmLb_lYLlu/view?usp=sharing"></iframe>
-    <a href="https://www.ab-mfbnigeria.com" target="_blank">AB Microfinance Website</a>    
+[![Watch the hatbot Application demo](https://j.gifs.com/RO28VK.gif)](https://drive.google.com/file/d/147-wgbYpjgEGvG5eAyohekjmLb_lYLlu/view?usp=sharing)
+<a href="https://www.ab-mfbnigeria.com" target="_blank">AB Microfinance Website</a>  
+  
 - TERAWORK (A freelance professionals marketplace www.terawork.com)
 - Telesales Platform (Service that allows you to sell/market product through calls)
 - CloudPbx (Business phone system hosted and powered over the internet)
