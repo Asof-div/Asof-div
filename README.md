@@ -12,14 +12,21 @@ Some technologies I enjoy working with include Javascript, PHP, Java, Python, LU
 Here are few demos on my recent projects.
 
 - Chatbot Application  
-
-[![Watch the hatbot Application demo](https://j.gifs.com/RO28VK.gif)](https://drive.google.com/file/d/147-wgbYpjgEGvG5eAyohekjmLb_lYLlu/view?usp=sharing)
-<a href="https://www.ab-mfbnigeria.com" target="_blank">AB Microfinance Website</a>  
+[![Watch the Chatbot Application demo](imgs/AB-Chatbot-Whatsapp.gif)](https://drive.google.com/file/d/147-wgbYpjgEGvG5eAyohekjmLb_lYLlu/view?usp=sharing)
+[![Watch the Chatbot Application demo](imgs/AB-Chatbot-Lead-Generation.gif)](https://drive.google.com/file/d/147-wgbYpjgEGvG5eAyohekjmLb_lYLlu/view?usp=sharing)  <p>Visit AB Microfinance Website to use the chatbot <a href="https://www.ab-mfbnigeria.com" target="_blank">here </a>  </p>
 
 - TERAWORK (A freelance professionals marketplace www.terawork.com)
+[![Watch the Terawork Application demo](imgs/Terawork.gif)](https://drive.google.com/file/d/12QosuvUsh97OrKNVcvfkqZ3BZTIb6G39/view?usp=sharing)
+[![Watch the Terawork Chat Application demo](imgs/Terawork-websocket.gif)](https://drive.google.com/file/d/1MeIkA23kUbWcpf6r0uT9ZE28Z92aqnRT/view?usp=sharing)
+
 - Telesales Platform (Service that allows you to sell/market product through calls)
+[![Watch the Telesales demo](imgs/CC-PBX-video.gif)](https://drive.google.com/file/d/1XEhDNA5Vm6ysdfYbSFH9wwE6frUFBoNN/view?usp=sharing)
+
 - CloudPbx (Business phone system hosted and powered over the internet)
+
 - ERP Solution  (HR, Sales, Helpdesk, Inventory, Payslip, PWP, Finance, etc.)
+[![Watch the ERP demo](imgs/ERP-Demo.gif)](https://drive.google.com/file/d/1fy83AHhVuQiEmGfg1zcmR8QPU0W1YP5F/view?usp=sharing)
+
 
 
 ## Find me around the web 🌎:
