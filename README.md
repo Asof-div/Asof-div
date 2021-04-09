@@ -23,6 +23,7 @@ Here are few demos on my recent projects.
 [![Watch the Telesales demo](imgs/CC-PBX-video.gif)](https://drive.google.com/file/d/1XEhDNA5Vm6ysdfYbSFH9wwE6frUFBoNN/view?usp=sharing)
 
 - CloudPbx (Business phone system hosted and powered over the internet)
+[![Watch the CloudPBX demo](imgs/Eazytel-cloudpbx.gif)](https://drive.google.com/file/d/1p3XgXR2BUh9pntMR4xOvuw0NPYUtwzj3/view?usp=sharing)
 
 - ERP Solution  (HR, Sales, Helpdesk, Inventory, Payslip, PWP, Finance, etc.)
 [![Watch the ERP demo](imgs/ERP-Demo.gif)](https://drive.google.com/file/d/1fy83AHhVuQiEmGfg1zcmR8QPU0W1YP5F/view?usp=sharing)
