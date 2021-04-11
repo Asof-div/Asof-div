@@ -5,7 +5,7 @@ I'm a software engineer who is passionate about building custom software solutio
 - Increase Visibility in customer's profile
 - Easy communication & Collaboration
 - Fast order & Billing
-I love converting client requirement into work solution.
+I love converting client requirements into work solutions.
 
 Some technologies I enjoy working with include Javascript, PHP, Java, Python, LUA, Asterisk, FreeSwitch, API, Docker, Linux, AWS, GCP.
 
@@ -39,3 +39,11 @@ Some technologies I enjoy working with include Javascript, PHP, Java, Python, LU
 ## Find me around the web 🌎:
 - Message me on <a href="https://twitter.com/am_Smartlife"> Twitter</a>
 - Sharing updates on <a href="https://www.linkedin.com/in/abiodun-adeyinka-411938b6/">LinkedIn</a> 💼
+
+## Git Stats
+
+![Abiodun's GitHub stats](https://github-readme-stats.vercel.app/api?username=asof-div&show_icons=true&theme=tokyonight)
+
+
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=asof-div&theme=tokyonight)](https://github.com/asof-div/github-readme-stats)
+
