@@ -5,7 +5,7 @@ I'm a software engineer who is passionate about building custom software solutio
 - Increase Visibility in customer's profile
 - Easy communication & Collaboration
 - Fast order & Billing
-I love converting client requirements into work solutions.
+I love converting client requirements into workable solutions.
 
 Some technologies I enjoy working with include Javascript, PHP, Java, Python, LUA, Asterisk, FreeSwitch, API, Docker, Linux, AWS, GCP.
 
